@@ -12,7 +12,7 @@
 
 - 💻 &nbsp; Python | Java | C++  
 - 🌐 &nbsp; Android |  HTML | CSS | JavaScript | React 
-- 🛢 &nbsp; MySQL | Firebase 
+- 🛢 &nbsp; SQLite | Firebase 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Figma | Invison
 
