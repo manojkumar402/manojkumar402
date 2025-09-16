@@ -1,26 +1,41 @@
-<h2> Hey there! I'm Manoj. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+# 👋 Hi, I'm Manoj Kumar  
 
-<h3> 👨🏻‍💻 About Me </h3>
+🚀 **Software Development Engineer** | 💻 **Full-Stack Developer** | ⚡ **UI Engineer**  
 
-- 🎓 &nbsp; Studying Computer Science Engineering at Pes University.
-- 🔭 &nbsp; I’m currently learning Android Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Android developer and front-end developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
+I am a detail-oriented and innovative software engineer with **2+ years of experience** in designing, developing, and deploying scalable web applications. Skilled in building performant UIs, backend services, and automation frameworks with a strong focus on **optimization, security, and test-driven development**.  
 
-<h3>🛠 Tech Stack</h3>
+---
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; Android |  HTML | CSS | JavaScript | React 
-- 🛢 &nbsp; SQLite | Firebase 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Figma | Invison
+## 🔧 Tech Stack  
 
+- **Languages:** TypeScript, Java, Scala, C, Python, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React.js, Redux, Node.js, Express.js, Spring Boot, Tailwind CSS, Bootstrap, Flask  
+- **Databases:** MySQL, PostgreSQL, DynamoDB, Neo4j  
+- **DevOps & Tools:** AWS, Bitbucket, Jira, Jenkins, GitHub, GraphQL, Docker (ECS/ECR), ElasticSearch  
+- **OS:** Linux, Windows  
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/manoj-kumar-290471190/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50"/></a>
-&nbsp; <a href="mailto:manojkumark2705@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/manojkumar_k_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50"/></a>  
-</p>
+## 🎓 Education  
+
+**Bachelor of Technology in Computer Science Engineering**  
+PES University, Bangalore (2019–2023) | **CGPA: 8.02**  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **Winner – IEEE Hackathon**: Built a crisis-response app improving healthcare communication by 60% for 400+ users.  
+- 📄 **Research Publication**: Published peer-reviewed paper on wildfire detection using ML (92% accuracy).  
+- 🎖️ **DAC Scholarship**: Awarded for academic excellence across six semesters.  
+
+---
+
+## 🌐 Let's Connect  
+
+- 📧 [Email](mailto:manojkumark3890@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-katabatthina/)  
+
+---
+
+✨ *"Striving to build scalable, performant, and user-friendly applications that make an impact."*  
